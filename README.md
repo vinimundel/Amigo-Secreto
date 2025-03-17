@@ -21,10 +21,12 @@ Este é um projeto de sorteio de Amigo Secreto feito com **HTML, CSS e JavaScrip
 1. Clone o repositório
      ```bash
    git clone https://github.com/vinimundel/Amigo-Secreto.git
-2. Abra o arquivo `index.html` no navegador  
+2. Abra o arquivo `index.html` no navegador                                                                                
 3. Digite um nome e clique em "Adicionar"  
 4. Clique em "Sortear Amigo" para ver o resultado
 5. Clique em "Resetar Sorteio" se deseja realizar um novo sorteio
+
+     ![Instruções de Uso](https://github.com/user-attachments/assets/6fba5840-02e5-4e24-b641-d48172888724)
 
 ## Estrutura do Projeto  
 
